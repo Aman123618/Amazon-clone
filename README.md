@@ -4,12 +4,12 @@ It is a static project with no backend or JavaScript functionality, created for 
 
 📌 Features<br>
 
-Responsive Amazon-like layout<br>
+1. Responsive Amazon-like layout<br>
 
-Navigation bar with logo, search bar, and account/cart icons<br>
+2. Navigation bar with logo, search bar, and account/cart icons<br>
 
-Hero section with banner<br>
+3. Hero section with banner<br>
 
-Product categories and item showcases<br>
+4. Product categories and item showcases<br>
 
-Footer similar to Amazon<br>
+5.Footer similar to Amazon<br>
