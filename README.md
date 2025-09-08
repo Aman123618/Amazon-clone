@@ -12,4 +12,4 @@ It is a static project with no backend or JavaScript functionality, created for 
 
 4. Product categories and item showcases<br>
 
-5.Footer similar to Amazon<br>
+5. Footer similar to Amazon<br>
